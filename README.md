@@ -22,17 +22,17 @@ To run this project locally:
 
 `git clone <repo-url>`
 
-text 2. Navigate to the project directory:
+2. Navigate to the project directory:
 
 `cd Etch-a-Sketch`
 
-text 3. Open `index.html` in your preferred web browser.
+3. Open `index.html` in your preferred web browser.
 
 ## How to Use
 
 1. Open the `index.html` file in your web browser.
 2. Click the "Generate 16x16 Grid" button to create the drawing grid.
-3. Hover over the squares to draw over the sqaures and create your artwork!
+3. Hover over the squares to draw over the squares and create your artwork!
 
 ## Acknowledgments
 
